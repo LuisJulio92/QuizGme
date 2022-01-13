@@ -1,0 +1,8 @@
+Player: Jugador 1, Score: 10, Date: 13/01/2022 12:24:37 p. m.
+Player: Usuario 2, Score: 10, Date: 13/01/2022 12:27:32 p. m.
+Player: Usuario 3, Score: 15, Date: 13/01/2022 12:32:48 p. m.
+Player: Usuario 4, Score: 3, Date: 13/01/2022 12:33:38 p. m.
+Player: luis, Score: 1, Date: 13/01/2022 12:46:24 p. m.
+Player: miguel, Score: 3, Date: 13/01/2022 1:01:31 p. m.
+Player: cristian, Score: 0, Date: 13/01/2022 1:28:11 p. m.
+Player: miguel, Score: 6, Date: 13/01/2022 2:33:17 p. m.
